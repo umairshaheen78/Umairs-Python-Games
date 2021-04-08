@@ -12,7 +12,7 @@ miles_driven = input("Enter miles driven: ")
 miles_driven = float(miles_driven)
  
 # Get gallons used from the user
-gallons_used = input("Enter gallons used:")
+gallons_used = input("Enter gallons used: ")
 # Convert text entered to a floating point number
 gallons_used = float(gallons_used)
  
